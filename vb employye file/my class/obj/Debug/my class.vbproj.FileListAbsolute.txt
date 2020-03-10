@@ -1,0 +1,11 @@
+C:\Users\matta\source\repos\my class\obj\Debug\my class.vbprojAssemblyReference.cache
+C:\Users\matta\source\repos\my class\obj\Debug\my_class.Form1.resources
+C:\Users\matta\source\repos\my class\obj\Debug\my_class.Resources.resources
+C:\Users\matta\source\repos\my class\obj\Debug\my class.vbproj.GenerateResource.cache
+C:\Users\matta\source\repos\my class\bin\Debug\my class.exe.config
+C:\Users\matta\source\repos\my class\bin\Debug\my class.exe
+C:\Users\matta\source\repos\my class\bin\Debug\my class.pdb
+C:\Users\matta\source\repos\my class\bin\Debug\my class.xml
+C:\Users\matta\source\repos\my class\obj\Debug\my class.exe
+C:\Users\matta\source\repos\my class\obj\Debug\my class.xml
+C:\Users\matta\source\repos\my class\obj\Debug\my class.pdb
